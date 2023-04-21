@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: arial;
+}
+
+p {
+    color: #363065;
+    font-size: 18px;
+}
+
+.thompson-card {
+
+    border-right: 5px solid #2a2a63;
+    border-bottom: 5px solid #2a2a63;
+}
+
+.card-skills {
+    border-top: 5px solid #2a2a63;
+
+    border-right: 5px solid #2a2a63;
+    border-bottom: 5px solid #2a2a63;
+}
+
+.card-award {
+    border-top: 5px solid #2a2a63;
+
+
+    border-bottom: 5px solid #2a2a63;
+}
+
+.card-intrest {
+    border-bottom: 5px solid #2a2a63;
+}
+
+.thom-heading {
+    color: #2a2a63;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.side-heading {
+    color: #2a2a63;
+
+}
+
+
+.thompson-card-second {
+    border-bottom: 5px solid #2a2a63;
+
+}
